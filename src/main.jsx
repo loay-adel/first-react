@@ -1,5 +1,6 @@
 import { createRoot } from "react-dom/client";
 import "./app.css";
+import "./index.css";
 import App from "./App.jsx";
 import { Service } from "./service";
 import { Portfolio } from "./Portfolio.jsx";
