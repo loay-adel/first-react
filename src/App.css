@@ -1,6 +1,6 @@
 @import "tailwindcss";
 @plugin "daisyui";
-/* hi */
+
 .flip-card {
   height: 18em;
   perspective: 1000px;
